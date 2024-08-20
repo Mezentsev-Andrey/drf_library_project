@@ -7,14 +7,19 @@ from users.serializers import UserSerializer
 
 
 class UserViewSet(viewsets.ModelViewSet):
-    """Контроллер для работы с моделью User"""
+    """
+    Контроллер для работы с моделью User.
+    """
 
     serializer_class = UserSerializer
     queryset = User.objects.all()
     permission_classes = [AllowAny]
 
     def create(self, request, *args, **kwargs):
-        """Переопределение метода для сохранения хешированного пароля в БД"""
+        """
+        Переопределение метода для сохранения
+        хешированного пароля в базе данных.
+        """
 
         serializer = UserSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)

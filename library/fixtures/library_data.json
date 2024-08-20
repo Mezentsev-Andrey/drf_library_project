@@ -1,0 +1,1073 @@
+[
+  {
+    "model": "library.historicalbook",
+    "pk": 1,
+    "fields": {
+      "id": 1,
+      "title": "Убить пересмешника",
+      "author": "Харпер Ли",
+      "genre": "южная готика, драма",
+      "cover": "",
+      "description": "В книге исследуются темы расовой несправедливости и предрассудков в южных штатах США через призму жизни маленькой девочки, чей отец, адвокат, защищает чернокожего мужчину, обвиненного в изнасиловании белой женщины.",
+      "history_date": "2024-08-20T09:41:48.913Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 2,
+    "fields": {
+      "id": 2,
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "genre": "магический реализм, сатира",
+      "cover": "",
+      "description": "Этот роман сочетает в себе элементы фантастики и реальности, рассказывая о визите дьявола в атеистическую Москву 1930-х годов, любви Мастера и Маргариты, а также философских размышлениях о добре и зле.",
+      "history_date": "2024-08-20T09:42:43.004Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 3,
+    "fields": {
+      "id": 3,
+      "title": "Преступление и наказание",
+      "author": "Фёдор Достоевский",
+      "genre": "философский роман, драма",
+      "cover": "",
+      "description": "Книга погружает читателя в мир внутренних страданий студента Родиона Раскольникова, который решает убить старуху-процентщицу, но впоследствии начинает мучиться чувством вины и сомнениями в правоте своего поступка.",
+      "history_date": "2024-08-20T09:43:31.496Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 4,
+    "fields": {
+      "id": 4,
+      "title": "Сто лет одиночества",
+      "author": "Габриэль Гарсиа Маркес",
+      "genre": "магический реализм",
+      "cover": "",
+      "description": "Эпический роман, повествующий о судьбе семьи Буэндиа в вымышленном городке Макондо. Книга исследует цикличность истории, неизбежность судьбы и влияние прошлого на настоящее.",
+      "history_date": "2024-08-20T09:44:23.323Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 5,
+    "fields": {
+      "id": 5,
+      "title": "Гордость и предубеждение",
+      "author": "Джейн Остин",
+      "genre": "романтика, социальная сатира",
+      "cover": "",
+      "description": "Этот классический роман рассказывает историю Элизабет Беннет, молодой женщины, которая сталкивается с проблемами любви, семьи и социального статуса в Англии XVIII века.",
+      "history_date": "2024-08-20T09:45:17.742Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 6,
+    "fields": {
+      "id": 6,
+      "title": "Великий Гэтсби",
+      "author": "Фрэнсис Скотт Фицджеральд",
+      "genre": "драма, трагедия",
+      "cover": "",
+      "description": "Роман исследует мир \"Американской мечты\" через историю богатого, но одинокого Джея Гэтсби, который стремится вернуть свою утраченную любовь, несмотря на все препятствия.",
+      "history_date": "2024-08-20T09:46:12.746Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 7,
+    "fields": {
+      "id": 7,
+      "title": "Анна Каренина",
+      "author": "Лев Толстой",
+      "genre": "роман, драма",
+      "cover": "",
+      "description": "В центре романа – трагическая история любви Анны Карениной, женщины из высшего общества, чьи поступки приводят её к катастрофическим последствиям. Книга также исследует темы семейных отношений, морали и человеческих страстей.",
+      "history_date": "2024-08-20T09:47:07.249Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 8,
+    "fields": {
+      "id": 8,
+      "title": "Портрет Дориана Грея",
+      "author": "Оскар Уайльд",
+      "genre": "готический роман",
+      "cover": "",
+      "description": "Повествование о молодом человеке, который заключает сделку, чтобы его портрет старел вместо него, что приводит к моральному разложению и трагедии.",
+      "history_date": "2024-08-20T09:47:56.577Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 9,
+    "fields": {
+      "id": 9,
+      "title": "Мадам Бовари",
+      "author": "Гюстав Флобер",
+      "genre": "реалистический роман",
+      "cover": "",
+      "description": "История о женщине, разочарованной браком и жизнью в провинции, которая ищет утешения в романах и адюльтерах, что приводит к её падению и трагедии.",
+      "history_date": "2024-08-20T09:49:01.573Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 10,
+    "fields": {
+      "id": 9,
+      "title": "Мадам Бовари",
+      "author": "Гюстав Флобер",
+      "genre": "реалистический роман",
+      "cover": "",
+      "description": "История о женщине, разочарованной браком и жизнью в провинции, которая ищет утешения в романах и адюльтерах, что приводит к её падению и трагедии.",
+      "history_date": "2024-08-20T14:15:45.011Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": null
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 11,
+    "fields": {
+      "id": 9,
+      "title": "Мадам Бовари",
+      "author": "Гюстав Флобер",
+      "genre": "реалистический роман.",
+      "cover": "",
+      "description": "История о женщине, разочарованной браком и жизнью в провинции, которая ищет утешения в романах и адюльтерах, что приводит к её падению и трагедии.",
+      "history_date": "2024-08-20T14:16:12.416Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": null
+    }
+  },
+  {
+    "model": "library.historicalbook",
+    "pk": 12,
+    "fields": {
+      "id": 9,
+      "title": "Мадам Бовари",
+      "author": "Гюстав Флобер",
+      "genre": "реалистический роман",
+      "cover": "",
+      "description": "История о женщине, разочарованной браком и жизнью в провинции, которая ищет утешения в романах и адюльтерах, что приводит к её падению и трагедии.",
+      "history_date": "2024-08-20T14:16:21.288Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": null
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 1,
+    "fields": {
+      "title": "Убить пересмешника",
+      "author": "Харпер Ли",
+      "genre": "южная готика, драма",
+      "cover": "",
+      "description": "В книге исследуются темы расовой несправедливости и предрассудков в южных штатах США через призму жизни маленькой девочки, чей отец, адвокат, защищает чернокожего мужчину, обвиненного в изнасиловании белой женщины."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 2,
+    "fields": {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "genre": "магический реализм, сатира",
+      "cover": "",
+      "description": "Этот роман сочетает в себе элементы фантастики и реальности, рассказывая о визите дьявола в атеистическую Москву 1930-х годов, любви Мастера и Маргариты, а также философских размышлениях о добре и зле."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 3,
+    "fields": {
+      "title": "Преступление и наказание",
+      "author": "Фёдор Достоевский",
+      "genre": "философский роман, драма",
+      "cover": "",
+      "description": "Книга погружает читателя в мир внутренних страданий студента Родиона Раскольникова, который решает убить старуху-процентщицу, но впоследствии начинает мучиться чувством вины и сомнениями в правоте своего поступка."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 4,
+    "fields": {
+      "title": "Сто лет одиночества",
+      "author": "Габриэль Гарсиа Маркес",
+      "genre": "магический реализм",
+      "cover": "",
+      "description": "Эпический роман, повествующий о судьбе семьи Буэндиа в вымышленном городке Макондо. Книга исследует цикличность истории, неизбежность судьбы и влияние прошлого на настоящее."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 5,
+    "fields": {
+      "title": "Гордость и предубеждение",
+      "author": "Джейн Остин",
+      "genre": "романтика, социальная сатира",
+      "cover": "",
+      "description": "Этот классический роман рассказывает историю Элизабет Беннет, молодой женщины, которая сталкивается с проблемами любви, семьи и социального статуса в Англии XVIII века."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 6,
+    "fields": {
+      "title": "Великий Гэтсби",
+      "author": "Фрэнсис Скотт Фицджеральд",
+      "genre": "драма, трагедия",
+      "cover": "",
+      "description": "Роман исследует мир \"Американской мечты\" через историю богатого, но одинокого Джея Гэтсби, который стремится вернуть свою утраченную любовь, несмотря на все препятствия."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 7,
+    "fields": {
+      "title": "Анна Каренина",
+      "author": "Лев Толстой",
+      "genre": "роман, драма",
+      "cover": "",
+      "description": "В центре романа – трагическая история любви Анны Карениной, женщины из высшего общества, чьи поступки приводят её к катастрофическим последствиям. Книга также исследует темы семейных отношений, морали и человеческих страстей."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 8,
+    "fields": {
+      "title": "Портрет Дориана Грея",
+      "author": "Оскар Уайльд",
+      "genre": "готический роман",
+      "cover": "",
+      "description": "Повествование о молодом человеке, который заключает сделку, чтобы его портрет старел вместо него, что приводит к моральному разложению и трагедии."
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 9,
+    "fields": {
+      "title": "Мадам Бовари",
+      "author": "Гюстав Флобер",
+      "genre": "реалистический роман",
+      "cover": "",
+      "description": "История о женщине, разочарованной браком и жизнью в провинции, которая ищет утешения в романах и адюльтерах, что приводит к её падению и трагедии."
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 1,
+    "fields": {
+      "id": 2,
+      "borrowed_date": "2024-08-20T09:54:15.687Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 1,
+      "user": 2,
+      "history_date": "2024-08-20T09:54:15.701Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 2,
+    "fields": {
+      "id": 3,
+      "borrowed_date": "2024-08-20T09:54:28.562Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 5,
+      "user": 2,
+      "history_date": "2024-08-20T09:54:28.570Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 3,
+    "fields": {
+      "id": 4,
+      "borrowed_date": "2024-08-20T09:54:42.986Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 8,
+      "user": 2,
+      "history_date": "2024-08-20T09:54:42.986Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 4,
+    "fields": {
+      "id": 4,
+      "borrowed_date": "2024-08-20T09:54:42.986Z",
+      "returned_date": "2024-08-20T09:55:24.191Z",
+      "is_returned": true,
+      "book": 8,
+      "user": 2,
+      "history_date": "2024-08-20T09:55:24.198Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 5,
+    "fields": {
+      "id": 5,
+      "borrowed_date": "2024-08-20T10:00:32.004Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 7,
+      "user": 3,
+      "history_date": "2024-08-20T10:00:32.013Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 6,
+    "fields": {
+      "id": 6,
+      "borrowed_date": "2024-08-20T10:00:38.763Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 4,
+      "user": 3,
+      "history_date": "2024-08-20T10:00:38.770Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 7,
+    "fields": {
+      "id": 7,
+      "borrowed_date": "2024-08-20T10:00:46.818Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 2,
+      "user": 3,
+      "history_date": "2024-08-20T10:00:46.822Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 8,
+    "fields": {
+      "id": 8,
+      "borrowed_date": "2024-08-20T10:04:35.426Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 1,
+      "user": 3,
+      "history_date": "2024-08-20T10:04:35.447Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 9,
+    "fields": {
+      "id": 7,
+      "borrowed_date": "2024-08-20T10:00:46.818Z",
+      "returned_date": "2024-08-20T10:04:48.152Z",
+      "is_returned": true,
+      "book": 2,
+      "user": 3,
+      "history_date": "2024-08-20T10:04:48.168Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 10,
+    "fields": {
+      "id": 9,
+      "borrowed_date": "2024-08-20T10:05:25.447Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 5,
+      "user": 3,
+      "history_date": "2024-08-20T10:05:25.448Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 11,
+    "fields": {
+      "id": 9,
+      "borrowed_date": "2024-08-20T10:05:25.447Z",
+      "returned_date": "2024-08-20T10:06:21.458Z",
+      "is_returned": true,
+      "book": 5,
+      "user": 3,
+      "history_date": "2024-08-20T10:06:21.465Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 12,
+    "fields": {
+      "id": 10,
+      "borrowed_date": "2024-08-20T10:15:42.783Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 5,
+      "user": 3,
+      "history_date": "2024-08-20T10:15:42.786Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 13,
+    "fields": {
+      "id": 10,
+      "borrowed_date": "2024-08-20T10:15:42.783Z",
+      "returned_date": "2024-08-20T10:16:59.342Z",
+      "is_returned": true,
+      "book": 5,
+      "user": 3,
+      "history_date": "2024-08-20T10:16:59.349Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 14,
+    "fields": {
+      "id": 11,
+      "borrowed_date": "2024-08-20T10:31:40.006Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 5,
+      "user": 4,
+      "history_date": "2024-08-20T10:31:40.022Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 15,
+    "fields": {
+      "id": 11,
+      "borrowed_date": "2024-08-20T10:31:40.006Z",
+      "returned_date": "2024-08-20T10:33:33.911Z",
+      "is_returned": true,
+      "book": 5,
+      "user": 4,
+      "history_date": "2024-08-20T10:33:33.920Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 16,
+    "fields": {
+      "id": 3,
+      "borrowed_date": "2024-08-20T09:54:28.562Z",
+      "returned_date": "2024-08-20T13:20:28.842Z",
+      "is_returned": true,
+      "book": 5,
+      "user": 2,
+      "history_date": "2024-08-20T13:20:28.854Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 17,
+    "fields": {
+      "id": 12,
+      "borrowed_date": "2024-08-20T13:21:00.803Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 9,
+      "user": 2,
+      "history_date": "2024-08-20T13:21:00.806Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 18,
+    "fields": {
+      "id": 13,
+      "borrowed_date": "2024-08-20T13:21:36.590Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 6,
+      "user": 2,
+      "history_date": "2024-08-20T13:21:36.597Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 19,
+    "fields": {
+      "id": 14,
+      "borrowed_date": "2024-08-20T14:33:33.986Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 4,
+      "user": 2,
+      "history_date": "2024-08-20T14:33:33.990Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 20,
+    "fields": {
+      "id": 12,
+      "borrowed_date": "2024-08-20T13:21:00.803Z",
+      "returned_date": "2024-08-20T14:34:24.992Z",
+      "is_returned": true,
+      "book": 9,
+      "user": 2,
+      "history_date": "2024-08-20T14:34:24.995Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 21,
+    "fields": {
+      "id": 5,
+      "borrowed_date": "2024-08-20T10:00:32.004Z",
+      "returned_date": "2024-08-20T14:36:36.949Z",
+      "is_returned": true,
+      "book": 7,
+      "user": 3,
+      "history_date": "2024-08-20T14:36:36.956Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 22,
+    "fields": {
+      "id": 15,
+      "borrowed_date": "2024-08-20T14:38:04.528Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 2,
+      "user": 3,
+      "history_date": "2024-08-20T14:38:04.535Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 3
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 23,
+    "fields": {
+      "id": 16,
+      "borrowed_date": "2024-08-20T14:39:15.763Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 2,
+      "user": 4,
+      "history_date": "2024-08-20T14:39:15.765Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 24,
+    "fields": {
+      "id": 17,
+      "borrowed_date": "2024-08-20T14:39:49.580Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 9,
+      "user": 4,
+      "history_date": "2024-08-20T14:39:49.587Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 25,
+    "fields": {
+      "id": 18,
+      "borrowed_date": "2024-08-20T14:39:56.388Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 5,
+      "user": 4,
+      "history_date": "2024-08-20T14:39:56.395Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 26,
+    "fields": {
+      "id": 19,
+      "borrowed_date": "2024-08-20T14:40:13.486Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 3,
+      "user": 4,
+      "history_date": "2024-08-20T14:40:13.493Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 27,
+    "fields": {
+      "id": 17,
+      "borrowed_date": "2024-08-20T14:39:49.580Z",
+      "returned_date": "2024-08-20T14:40:43.983Z",
+      "is_returned": true,
+      "book": 9,
+      "user": 4,
+      "history_date": "2024-08-20T14:40:43.987Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 4
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 28,
+    "fields": {
+      "id": 20,
+      "borrowed_date": "2024-08-20T14:42:18.444Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 4,
+      "user": 2,
+      "history_date": "2024-08-20T14:42:18.445Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 29,
+    "fields": {
+      "id": 20,
+      "borrowed_date": "2024-08-20T14:42:18.444Z",
+      "returned_date": "2024-08-20T14:42:40Z",
+      "is_returned": true,
+      "book": 4,
+      "user": 2,
+      "history_date": "2024-08-20T14:42:43.682Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 30,
+    "fields": {
+      "id": 21,
+      "borrowed_date": "2024-08-20T14:43:18.705Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 9,
+      "user": 2,
+      "history_date": "2024-08-20T14:43:18.707Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 31,
+    "fields": {
+      "id": 21,
+      "borrowed_date": "2024-08-20T14:43:18.705Z",
+      "returned_date": "2024-08-20T14:43:32Z",
+      "is_returned": true,
+      "book": 9,
+      "user": 2,
+      "history_date": "2024-08-20T14:43:35.226Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 32,
+    "fields": {
+      "id": 21,
+      "borrowed_date": "2024-08-20T14:43:18.705Z",
+      "returned_date": "2024-08-20T14:43:32Z",
+      "is_returned": false,
+      "book": 9,
+      "user": 2,
+      "history_date": "2024-08-20T14:43:54.828Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 33,
+    "fields": {
+      "id": 22,
+      "borrowed_date": "2024-08-20T15:57:02.617Z",
+      "returned_date": null,
+      "is_returned": false,
+      "book": 5,
+      "user": 2,
+      "history_date": "2024-08-20T15:57:02.627Z",
+      "history_change_reason": null,
+      "history_type": "+",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 34,
+    "fields": {
+      "id": 22,
+      "borrowed_date": "2024-08-20T15:57:02.617Z",
+      "returned_date": "2024-08-20T15:57:27.856Z",
+      "is_returned": true,
+      "book": 5,
+      "user": 2,
+      "history_date": "2024-08-20T15:57:27.861Z",
+      "history_change_reason": null,
+      "history_type": "~",
+      "history_user": 2
+    }
+  },
+  {
+    "model": "library.historicalborrowedbook",
+    "pk": 35,
+    "fields": {
+      "id": 21,
+      "borrowed_date": "2024-08-20T14:43:18.705Z",
+      "returned_date": "2024-08-20T14:43:32Z",
+      "is_returned": false,
+      "book": 9,
+      "user": 2,
+      "history_date": "2024-08-20T16:04:57.220Z",
+      "history_change_reason": null,
+      "history_type": "-",
+      "history_user": 1
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 2,
+    "fields": {
+      "book": 1,
+      "user": 2,
+      "borrowed_date": "2024-08-20T09:54:15.687Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 3,
+    "fields": {
+      "book": 5,
+      "user": 2,
+      "borrowed_date": "2024-08-20T09:54:28.562Z",
+      "returned_date": "2024-08-20T13:20:28.842Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 4,
+    "fields": {
+      "book": 8,
+      "user": 2,
+      "borrowed_date": "2024-08-20T09:54:42.986Z",
+      "returned_date": "2024-08-20T09:55:24.191Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 5,
+    "fields": {
+      "book": 7,
+      "user": 3,
+      "borrowed_date": "2024-08-20T10:00:32.004Z",
+      "returned_date": "2024-08-20T14:36:36.949Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 6,
+    "fields": {
+      "book": 4,
+      "user": 3,
+      "borrowed_date": "2024-08-20T10:00:38.763Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 7,
+    "fields": {
+      "book": 2,
+      "user": 3,
+      "borrowed_date": "2024-08-20T10:00:46.818Z",
+      "returned_date": "2024-08-20T10:04:48.152Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 8,
+    "fields": {
+      "book": 1,
+      "user": 3,
+      "borrowed_date": "2024-08-20T10:04:35.426Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 9,
+    "fields": {
+      "book": 5,
+      "user": 3,
+      "borrowed_date": "2024-08-20T10:05:25.447Z",
+      "returned_date": "2024-08-20T10:06:21.458Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 10,
+    "fields": {
+      "book": 5,
+      "user": 3,
+      "borrowed_date": "2024-08-20T10:15:42.783Z",
+      "returned_date": "2024-08-20T10:16:59.342Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 11,
+    "fields": {
+      "book": 5,
+      "user": 4,
+      "borrowed_date": "2024-08-20T10:31:40.006Z",
+      "returned_date": "2024-08-20T10:33:33.911Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 12,
+    "fields": {
+      "book": 9,
+      "user": 2,
+      "borrowed_date": "2024-08-20T13:21:00.803Z",
+      "returned_date": "2024-08-20T14:34:24.992Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 13,
+    "fields": {
+      "book": 6,
+      "user": 2,
+      "borrowed_date": "2024-08-20T13:21:36.590Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 14,
+    "fields": {
+      "book": 4,
+      "user": 2,
+      "borrowed_date": "2024-08-20T14:33:33.986Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 15,
+    "fields": {
+      "book": 2,
+      "user": 3,
+      "borrowed_date": "2024-08-20T14:38:04.528Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 16,
+    "fields": {
+      "book": 2,
+      "user": 4,
+      "borrowed_date": "2024-08-20T14:39:15.763Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 17,
+    "fields": {
+      "book": 9,
+      "user": 4,
+      "borrowed_date": "2024-08-20T14:39:49.580Z",
+      "returned_date": "2024-08-20T14:40:43.983Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 18,
+    "fields": {
+      "book": 5,
+      "user": 4,
+      "borrowed_date": "2024-08-20T14:39:56.388Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 19,
+    "fields": {
+      "book": 3,
+      "user": 4,
+      "borrowed_date": "2024-08-20T14:40:13.486Z",
+      "returned_date": null,
+      "is_returned": false
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 20,
+    "fields": {
+      "book": 4,
+      "user": 2,
+      "borrowed_date": "2024-08-20T14:42:18.444Z",
+      "returned_date": "2024-08-20T14:42:40Z",
+      "is_returned": true
+    }
+  },
+  {
+    "model": "library.borrowedbook",
+    "pk": 22,
+    "fields": {
+      "book": 5,
+      "user": 2,
+      "borrowed_date": "2024-08-20T15:57:02.617Z",
+      "returned_date": "2024-08-20T15:57:27.856Z",
+      "is_returned": true
+    }
+  }
+]

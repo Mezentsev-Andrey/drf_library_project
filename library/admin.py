@@ -13,9 +13,9 @@ admin.site.register(Book, BookAdmin)
 
 
 class BorrowedBookAdmin(admin.ModelAdmin):
-    list_display = ('user', 'book', 'borrowed_date', 'returned_date', 'is_returned')
-    list_filter = ('is_returned', 'borrowed_date', 'returned_date', 'user')
-    search_fields = ('user__username', 'book__title')
+    list_display = ("user", "book", "borrowed_date", "returned_date", "is_returned")
+    list_filter = ("is_returned", "borrowed_date", "returned_date", "user")
+    search_fields = ("user__username", "book__title")
 
 
 admin.site.register(BorrowedBook, BorrowedBookAdmin)

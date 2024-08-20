@@ -1,9 +1,7 @@
 from datetime import timedelta
 
-from django.utils import timezone
-
 from django.db import models
-
+from django.utils import timezone
 from simple_history.models import HistoricalRecords
 
 from users.models import User
@@ -53,8 +51,11 @@ class BorrowedBook(models.Model):
         else:
             end_date = timezone.now()
 
-        borrowed_date = timezone.make_aware(self.borrowed_date) if timezone.is_naive(
-            self.borrowed_date) else self.borrowed_date
+        borrowed_date = (
+            timezone.make_aware(self.borrowed_date)
+            if timezone.is_naive(self.borrowed_date)
+            else self.borrowed_date
+        )
         return (end_date - borrowed_date).days
 
     @property

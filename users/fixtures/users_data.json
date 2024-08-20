@@ -1,0 +1,94 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$bVgQeuJ5TB6HD2YVI0rMDV$bTN64PGm29RVMPGg6xE6od2cQOcRPN1/e3DbjLBAVRM=",
+      "last_login": "2024-08-20T09:40:15.091Z",
+      "is_superuser": true,
+      "email": "admin@admin.ru",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-08-20T09:36:14.016Z",
+      "username": "admin",
+      "role": "",
+      "employee_number": null,
+      "first_name": null,
+      "last_name": null,
+      "address": null,
+      "is_reader": false,
+      "is_librarian": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$1QusOOz8eIu9c6UraZeSCj$AOENKg1aMQSp7YZB4nBMn/oWj8qpdr6S58Kv4cmLw40=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-20T09:38:55Z",
+      "username": "andrey",
+      "role": "reader",
+      "employee_number": null,
+      "first_name": null,
+      "last_name": null,
+      "address": "",
+      "is_reader": true,
+      "is_librarian": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$MEpXA6P4ckVBa1gWjGSloA$qz2RyLalqCsqVSK70U7eIK8rbzATBQVXvshPz6TjB/w=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-20T09:39:13Z",
+      "username": "alexey",
+      "role": "reader",
+      "employee_number": null,
+      "first_name": null,
+      "last_name": null,
+      "address": "",
+      "is_reader": true,
+      "is_librarian": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$KI80svWgbmaDemH8VSkUAI$vvoRt13/z7bEOxxF6LMi62vP/7/sKMF9knetl+Apy10=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-20T09:39:41Z",
+      "username": "anastasia",
+      "role": "reader",
+      "employee_number": null,
+      "first_name": null,
+      "last_name": null,
+      "address": "",
+      "is_reader": true,
+      "is_librarian": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
